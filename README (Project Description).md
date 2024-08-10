@@ -18,3 +18,4 @@ I then analyzed this data and extracted key performance indicators (KPIs). Using
 * Python libraries: yfinance, Plotly, pandas.
 
 *Note: This project was completed as part of a course, and the evaluation included hands-on labs, quizzes, and a peer review assignment.*
+
