@@ -14,6 +14,7 @@ I then analyzed this data and extracted key performance indicators (KPIs). Using
 
 ## Environment & Tools:
 * Skills Network Labs;
+* IBM Watson Studio;
 * Google Colab
 * Python libraries: yfinance, Plotly, pandas.
 
